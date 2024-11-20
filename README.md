@@ -301,3 +301,12 @@ module.exports = {
   rules: {},
 };
 ```
+
+### 4.4.ESLint `rules` 설정
+
+- .eslintrc.js 를 관리하자.
+
+```js
+rules: { "no-unused-vars": "off" },
+,
+```
